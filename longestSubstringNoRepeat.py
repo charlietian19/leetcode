@@ -1,4 +1,6 @@
 class Solution:
+    
+    #faster than around 100% solutions!
     def lengthOfLongestSubstring(self, s):
         """
         :type s: str
